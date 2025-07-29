@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+schedule
+typer
+openai
+langchain
+langgraph
+langchain-openai
